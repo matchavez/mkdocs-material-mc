@@ -2,6 +2,8 @@
 template: overrides/main.html
 ---
 
+Your content lives in docs.
+
 # Publishing your site
 
 The great thing about hosting project documentation in a `git` repository is
